@@ -16,6 +16,8 @@ Merchant Dashboard
 Add Location
 Purchase Order List
 ![image](https://user-images.githubusercontent.com/11161087/181908987-4f8941db-b308-4413-9c75-34bae7f5334b.png)
+View Merchant Locations
+![image](https://user-images.githubusercontent.com/11161087/181924508-a810fe2c-4879-4320-8397-f578b74dfe96.png)
 
 
 ### Demo Link :  https://cloudhostica.com/projects/rubbulution/
